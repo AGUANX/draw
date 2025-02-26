@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRiODIRtR-y07qntYdJK-2" value="计算候选点到地图任意点的距离，生成距离矩阵" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="160" width="170" height="60" as="geometry" />
+          <mxGeometry x="133.75" y="160" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZRiODIRtR-y07qntYdJK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZRiODIRtR-y07qntYdJK-4" target="ZRiODIRtR-y07qntYdJK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZRiODIRtR-y07qntYdJK-4" value="根据距离矩阵生成矩阵A" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="137.5" y="260" width="165" height="40" as="geometry" />
+          <mxGeometry x="136.25" y="260" width="165" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZRiODIRtR-y07qntYdJK-6" value="放入求解器，计算最少的机巢部署" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="137.5" y="340" width="162.5" height="50" as="geometry" />
