@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-2" value="计算canopy范围，打标记" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8GHw0iXXMv8tHYo1QWaL-6" target="8GHw0iXXMv8tHYo1QWaL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="470" />
-              <mxPoint x="510" y="190" />
+              <mxPoint x="460" y="380" />
+              <mxPoint x="460" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -38,18 +38,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-6" value="判断list是否为空" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="140" height="80" as="geometry" />
+          <mxGeometry x="220" y="340" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8GHw0iXXMv8tHYo1QWaL-10" target="8GHw0iXXMv8tHYo1QWaL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-10" value="&lt;div&gt;计算适应度&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8GHw0iXXMv8tHYo1QWaL-15" target="8GHw0iXXMv8tHYo1QWaL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="770" />
+              <mxPoint x="120" y="585" />
               <mxPoint x="120" y="190" />
             </Array>
           </mxGeometry>
@@ -62,17 +62,22 @@
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8GHw0iXXMv8tHYo1QWaL-15" target="8GHw0iXXMv8tHYo1QWaL-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8GHw0iXXMv8tHYo1QWaL-23" value="&lt;div&gt;是&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8GHw0iXXMv8tHYo1QWaL-20">
+          <mxGeometry x="0.1111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-15" value="是都到达迭代次数" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="730" width="140" height="80" as="geometry" />
+          <mxGeometry x="220" y="545" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-19" value="输出最佳结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8GHw0iXXMv8tHYo1QWaL-21" target="8GHw0iXXMv8tHYo1QWaL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8GHw0iXXMv8tHYo1QWaL-21" value="进入迭代" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
