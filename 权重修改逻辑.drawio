@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.2.3">
   <diagram name="第 1 页" id="sqXLWVGCS-U0YZpSArBA">
-    <mxGraphModel>
+    <mxGraphModel dx="1044" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-1" target="wTcxMaVYYzkBPHVMt9Zl-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-1" value="根据历史数据确定感染点的位置，并给附近网格点加入权重" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-2" target="wTcxMaVYYzkBPHVMt9Zl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-2" value="使用求解器计算机巢最佳的部署位置和部署个数" style="whiteSpace=wrap;html=1;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-6" target="wTcxMaVYYzkBPHVMt9Zl-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-6" value="划分任务区域" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-8" target="wTcxMaVYYzkBPHVMt9Zl-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-8" value="计算每个任务区域的威胁程度，划分高中低三个层次" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="500" width="170" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-10" target="wTcxMaVYYzkBPHVMt9Zl-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-10" value="根据任务区域的威胁程度，分配不同的监测频率" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="640" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-12" value="根据无人机监测的结果，修改每个任务区域的威胁程度" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="780" width="175" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
