@@ -25,13 +25,13 @@
         <mxCell id="wTcxMaVYYzkBPHVMt9Zl-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-8" target="wTcxMaVYYzkBPHVMt9Zl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-8" value="计算每个任务区域的威胁程度，划分高中低三个层次" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-8" value="计算每个任务区域的风险程度，划分高中低三个层次" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="470" width="170" height="105" as="geometry" />
         </mxCell>
         <mxCell id="wTcxMaVYYzkBPHVMt9Zl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-10" target="wTcxMaVYYzkBPHVMt9Zl-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-10" value="根据任务区域的威胁程度，分配不同的监测频率" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-10" value="根据任务区域的风险程度，分配不同的监测频率" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="600" width="170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wTcxMaVYYzkBPHVMt9Zl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-12" target="wTcxMaVYYzkBPHVMt9Zl-6">
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-12" value="根据无人机监测的结果，修改每个任务区域的威胁程度" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-12" value="根据无人机监测的结果，修改每个任务区域的风险程度" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="720" width="175" height="100" as="geometry" />
         </mxCell>
       </root>
