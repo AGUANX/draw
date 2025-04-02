@@ -34,6 +34,14 @@
         <mxCell id="wTcxMaVYYzkBPHVMt9Zl-10" value="根据任务区域的威胁程度，分配不同的监测频率" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="640" width="170" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="wTcxMaVYYzkBPHVMt9Zl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wTcxMaVYYzkBPHVMt9Zl-12" target="wTcxMaVYYzkBPHVMt9Zl-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="830" />
+              <mxPoint x="440" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wTcxMaVYYzkBPHVMt9Zl-12" value="根据无人机监测的结果，修改每个任务区域的威胁程度" style="whiteSpace=wrap;html=1;fontSize=17;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="67.5" y="780" width="175" height="100" as="geometry" />
         </mxCell>
