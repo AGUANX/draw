@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="m_UP_izuxUmIqxNckfhg-13" value="继续增加任务区域的权重，套入模型，计算感染区的范围，" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="m_UP_izuxUmIqxNckfhg-13" value="继续增加任务区域的权重" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m_UP_izuxUmIqxNckfhg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="m_UP_izuxUmIqxNckfhg-18" target="m_UP_izuxUmIqxNckfhg-38" edge="1">
@@ -80,7 +80,7 @@
             <mxPoint x="320" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m_UP_izuxUmIqxNckfhg-18" value="修改任务区域的权重，套入松材线虫被治理的模型，计算复发的概率" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="m_UP_izuxUmIqxNckfhg-18" value="修改任务区域的权重，计算复发的概率" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m_UP_izuxUmIqxNckfhg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="m_UP_izuxUmIqxNckfhg-38" target="m_UP_izuxUmIqxNckfhg-2" edge="1">
